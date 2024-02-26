@@ -16,8 +16,8 @@ drop-shadow-2xl
 export const ornament = tw.div`
 absolute
 bottom-0
-h-80
-w-80
+h-[22rem]
+w-[22rem]
 rounded-full
 bg-gradient-to-b
 from-green-500

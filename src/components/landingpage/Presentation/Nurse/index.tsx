@@ -5,10 +5,10 @@ export const Nurse = () => {
   return (
     <S.nurseContainer>
       <S.nurseImage
-        src="/dentista.png"
+        src="/dentistas.png"
         alt="dentista"
-        width={300}
-        height={300}
+        width={350}
+        height={350}
       />
       <S.ornament />
     </S.nurseContainer>
