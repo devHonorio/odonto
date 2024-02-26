@@ -14,7 +14,7 @@ export const Trataments = () => {
         <S.li>fratura dentária</S.li>
       </S.ul>
 
-      <S.p>Existe uma solução para isso, corrija a sua respiração bucal!</S.p>
+      <S.p>Existe uma solução para isso, corrija a sua saúde bucal!</S.p>
 
       <S.button>Solicitar orçamento</S.button>
     </S.container>
